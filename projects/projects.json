@@ -40,7 +40,7 @@
   },
   {
     "name": "buzzlike",
-    "thumb": "buzzlike/thumb.png", 
+    "thumb": "buzzlike/thumb.png",
     "desc": "Digital content interaction tool",
     "url": "http://buzzlike.pro",
     "info": "http://buzzlike.pro/#/about/project",
@@ -1458,7 +1458,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1633,8 +1633,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1731,18 +1731,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
@@ -3647,7 +3647,22 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "myCARFAX",
+      "thumb": "mycarfax/thumb.png",
+      "desc": "myCARFAX helps you reduce the hassle of servicing your vehicle with a convenient and comprehensive car care app. This car app is completely free and allows you to stay in tune with your vehicle's maintenance needs, previous service records, and much more.",
+      "url": "https://www.mycarfax.com",
+      "info": "https://www.mycarfax.com/aboutus",
+      "submitter": "DavidFrahm",
+      "submissionDate": "2015-01-29",
+      "tags": [
+        "Production",
+        "Transportation",
+        "Local Storage", "Grails",
+        "No jQuery",
+        "Agile"
+      ]
     }
-
   ]
 }
